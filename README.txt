@@ -1,4 +1,4 @@
-If cannot access,please click this link file:///C:/Users/60167/Downloads/Website/index.html#footer
+If cannot access,please click this link file/C:/Users/60167/Downloads/Website/index.html#footer
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
@@ -33,3 +33,4 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
